@@ -5,13 +5,13 @@ https://wordpress.org/plugins/gmail-smtp/
 
 ## Introduction
 
-Sending email via SMTP using Gmail API is one solution to platform with dynamic outgoing IP addresses like Pantheon. This tutorial is a step by step process to enable and configure the gmail-smtp plugin for Wordpress hosted in Pantheon.
+Sending email via SMTP using Gmail API is one of the solution to platform with dynamic outgoing IP addresses like Pantheon. This tutorial is a step by step process to enable and configure the gmail-smtp plugin for Wordpress hosted in Pantheon.
 
 ## Installation Process
 
 #### 1. At Pantheon Dashboard, switch to [SFTP mode](https://pantheon.io/docs/sftp/) for easy plugin installation.
 
-Once uploaded to DEV, deploy it to TEST and LIVE. You may practice using TEST Environment but you can directly configure LIVE site. Please refer to [Pantheon Workflow]https://pantheon.io/docs/pantheon-workflow how database/files travels between environments.
+Once the plugin is installed in DEV, deploy it to TEST and LIVE. Dry run the configuration to TEST Environment but can be directly configure at LIVE environment. Please refer to [Pantheon Workflow]https://pantheon.io/docs/pantheon-workflow how database/files travels between environments.
 
 
 #### 2. Access the WordPress site. Search and Install the [SMTP Gmail](https://wordpress.org/plugins/gmail-smtp/) plugin. 
